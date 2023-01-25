@@ -11,8 +11,8 @@ Build Steps:
 
   
 Execute Steps: 
-1. Use **./runS** to run the server.
-2. Use **./runC client_name serverIPAddress** (EX. ./runC omkar 127.0.0.1)
+1. Use **./runS** to run the server in server directory.
+2. Use **./runC client_name serverIPAddress** in client directory on other terminals (EX. ./runC omkar 127.0.0.1)
 
 
 
